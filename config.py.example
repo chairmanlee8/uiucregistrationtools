@@ -1,0 +1,24 @@
+R_SUBJECT = "ECE"
+R_COURSE = "385"
+R_SECTIONS_DESIRED = ["AB3"]        # [] for any section/no constraint
+R_USERNAME = "username"             # Your enterprise username. If the script fails check this first!
+R_PASSWORD = "pass"                 # Your enterprise password. If the script fails check this first!
+R_PHONENUMBER = "15551234567"       # Numbers only please
+R_CARRIER = "8"                     # See below list
+
+# List of cellphone carrier codes
+# 
+#  1    Alltel
+#  3    Ameritech
+#  7    CellularOne
+#  8    AT&T
+#  9    Cingular Blue (AT&T)
+# 10    Edge Wireless
+# 11    Metro PCS
+# 14    Nextel (USA)
+# 16    Qualcomm
+# 18    Sprint PCS
+# 19    T-Mobile
+# 20    Verizon
+# 21    Virgin Mobile (USA)
+# 30    US Cellular
